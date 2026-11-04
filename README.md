@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Kencana Analytics — Backend
 
 Backend untuk sistem analisis Big Data Kencana Travel: **Segmentasi Pasar**,
@@ -131,3 +132,6 @@ Buka `http://localhost:8000/docs` untuk mencoba semua endpoint langsung dari bro
    tersebut — logic RFM + K-Means tidak perlu diubah.
 3. **Cache analisis di memori proses**: hasil berat (forecasting, segmentasi, performa) disimpan per
    proses dan dihitung ulang setelah restart (dipanaskan otomatis di thread latar).
+=======
+# SIRADA-KENCANA-TRAVEL
+>>>>>>> 4be8ba2f9d38ab48fd346e7f9c04dbb75a0d2887
