@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.pyc
+# Database lokal (144 MB, melebihi batas GitHub). Di Railway data dimuat dari data/*.csv.
+*.db
+*.db-journal
